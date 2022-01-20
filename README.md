@@ -1,2 +1,2 @@
 # IT115-wiki-project
-Coursework for winter 2022
+Contributors: <a href="https://github.com/larsswenson">Lars Swenson</a>, <a href="https://github.com/Ramoel23">Leo Aparra</a>, <a href="https://github.com/klc-jpg">Kelly Chapman</a> and <a href="https://github.com/way9z">Wei Zenk
